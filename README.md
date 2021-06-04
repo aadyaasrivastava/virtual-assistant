@@ -3,6 +3,7 @@ She is a great virtual assistant.
 A perfect assistant who manages all our desktop's work with full efficiency and sweet gesture.
 
 It provides several features like: -
+<br>
 Searching music<br>
 Searching YouTube <br>
 Opening mails <br>
